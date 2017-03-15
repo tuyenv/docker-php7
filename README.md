@@ -1,4 +1,6 @@
 # Docker: Ubuntu, Nginx and PHP 7.0, Memcached
+[![Circle CI](https://circleci.com/gh/tuyenv/docker-php7.svg?style=svg)](https://circleci.com/gh/tuyenv/docker-php7)
+
 This is based on phusion/baseimage-docker base Ubuntu image
 
 After cloning the project:
